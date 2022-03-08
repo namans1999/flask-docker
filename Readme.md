@@ -1,6 +1,6 @@
 ## Dockerization with CI/CD Pipeline
-Dockerized a Flask Application with a pipeline that pushes the Docker Image to ECR.
-Python - Flask - Docker - Jenkins - AWS ECR
+Dockerized a Flask Application with a pipeline that pushes the Docker Image to ECR.<br>
+### Python - Flask - Docker - Jenkins - AWS ECR
 
 ## Workflow
  1.  Dockerize a simple Hello World Flask Application
